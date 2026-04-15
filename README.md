@@ -1,15 +1,5 @@
-# Welcome to My GitHub Profile!
+8 years full-stack dev, former Tech Lead on large-scale payments infrastructure.
 
-Hello! I'm muddlebee, and welcome to my GitHub profile. Here you can find some of my projects and contributions.
+Founder of [Swush, a payments aggregator](https://tinyurl.com/4wyjauur) that optimizes for best payment routes across multiple blockchains. Raised $60k in grants.
 
-## About Me
-
-- I'm passionate about coding and open-source development.
-- I enjoy working with various programming languages, including Python, JavaScript, and Rust.
-- My interests include full-stack development, machine learning, and data analysis.
-
-## Projects
-
-Feel free to check out my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
-
-Happy coding!
+Currently building with my agentic workflows (design → dev → testing → iteration loops) : [Github](https://github.com/muddlebee/.agents/blob/main/workflow.md)
