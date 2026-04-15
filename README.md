@@ -2,4 +2,4 @@
 
 Founder of [Swush, a payments aggregator](https://tinyurl.com/4wyjauur) that optimizes for best payment routes across multiple blockchains. Raised $60k in grants.
 
-Currently building with my agentic workflows (design → dev → testing → iteration loops) : [Github](https://github.com/muddlebee/.agents/blob/main/workflow.md)
+Currently building with my [agentic workflows](https://github.com/muddlebee/.agents) (design → dev → testing → iteration loops) 
