@@ -1,4 +1,4 @@
-Core Maintainer at [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre).
+Core maintainer of [OpenSRE](https://github.com/Tracer-Cloud/opensre), building AI SRE agents for production incident response.
 
 8 years full-stack dev, former Tech Lead on large-scale payments infrastructure.
 
